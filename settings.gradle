@@ -1,0 +1,2 @@
+rootProject.name='UniverseV0.0'
+include ':app'
